@@ -1,6 +1,10 @@
-# OWSAP WebGoat Clean Code
-### purpose
-fix vulnerabilities in webGoat source code
+# OWASP WebGoat Clean Code
 
-### using framework
-sonarqube
+### purpose
+Fix vulnerabilities in WebGoat source code
+
+### using framework for Security Test
+SonarQube
+
+### Fixed vuln
+ing...
